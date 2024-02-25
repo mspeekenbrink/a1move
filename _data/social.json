@@ -1,0 +1,12 @@
+ [
+  {
+      "name": "Email",
+      "link": "mailto:a1deliveriesltd@gmail.com",
+      "image": "images/social/email.svg"
+  },
+  {
+    "name": "Facebook",
+    "link": "https://facebook.com",
+    "image": "images/social/facebook.svg"
+  }
+]
